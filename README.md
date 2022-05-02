@@ -1,7 +1,11 @@
 Notas:
 -Utilicé el autenticador Auth0, por lo que el guardado de la información, ya se hace automáticamente en JWT, por lo que ahí se guardaron los datos :)
+
 -La información de lo que hace la página se encuentra en el About
+
 -hay funcionalidades que podrían tener más funciones, pero traté de reducirlas para mantenerlo simple :)
+
+-Está el detalle que Auth0 tarda en iniciar sesión al momento de abrir una nueva página, por lo que durante el tiempo que hace la petición muestra como si no estuvieras loggeado, aquí lo que implementaría sería un loading, o incluso se podría adaptar a un useLayoutEffect para hacerlo síncrono y luego renderearlo, pero por el tiempo lo dejé pasar.
 
 
 # Getting Started with Create React App
