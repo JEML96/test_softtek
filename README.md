@@ -1,3 +1,7 @@
+Notas:
+Utilicé el autenticador Auth0, por lo que el guardado de la información, ya se hace automáticamente en JWT, por lo que ahí se guardaron los datos :)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
