@@ -1,5 +1,7 @@
 Notas:
-Utilicé el autenticador Auth0, por lo que el guardado de la información, ya se hace automáticamente en JWT, por lo que ahí se guardaron los datos :)
+-Utilicé el autenticador Auth0, por lo que el guardado de la información, ya se hace automáticamente en JWT, por lo que ahí se guardaron los datos :)
+-La información de lo que hace la página se encuentra en el About
+-hay funcionalidades que podrían tener más funciones, pero traté de reducirlas para mantenerlo simple :)
 
 
 # Getting Started with Create React App
